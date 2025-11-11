@@ -8,11 +8,11 @@ include_in_header: false
 
 **Last updated April 06, 2025**
 
-This Privacy Notice for Univoz ("**we**," "**us**," or "**our**"), describes how and why we might access, collect, store, use, and/or share ("**process**") your personal information when you use our services ("**Services**"), including when you:
+This Privacy Notice for Cypher ("**we**," "**us**," or "**our**"), describes how and why we might access, collect, store, use, and/or share ("**process**") your personal information when you use our services ("**Services**"), including when you:
 
--   Download and use our mobile application (Univoz), or any other application of ours that links to this Privacy Notice
+-   Download and use our mobile application (Cypher), or any other application of ours that links to this Privacy Notice
 
--   Use Univoz; A education platforms that enables you to improve your listening comprehension through native voices.
+-   Use Cypher; A education platforms that enables you to improve your listening comprehension through native voices.
 
 -   Engage with us in other related ways, including any sales, marketing, or events
 
@@ -381,7 +381,7 @@ Depending upon the state where you live, you may also have the following rights:
 
 ### How to Exercise Your Rights
 
-To exercise these rights, you can contact us by visiting [devonminor.github.io/univoz](https://devonminor.github.io/univoz), by emailing us at devon.minor.00@gmail.com, or by referring to the contact details at the bottom of this document.
+To exercise these rights, you can contact us by visiting [devonminor.github.io/Cypher](https://devonminor.github.io/Cypher), by emailing us at devon.minor.00@gmail.com, or by referring to the contact details at the bottom of this document.
 
 You can opt out from the selling of your personal information, targeted advertising, or profiling by disabling cookies in Cookie Preference Settings.
 
