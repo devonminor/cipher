@@ -16,7 +16,7 @@ This Privacy Notice for Cypher ("**we**," "**us**," or "**our**"), describes how
 
 -   Engage with us in other related ways, including any sales, marketing, or events
 
-**Questions or concerns?** Reading this Privacy Notice will help you understand your privacy rights and choices. We are responsible for making decisions about how your personal information is processed. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at devon.minor.00@gmail.com.
+**Questions or concerns?** Reading this Privacy Notice will help you understand your privacy rights and choices. We are responsible for making decisions about how your personal information is processed. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at support@devonminor.com.
 
 ## SUMMARY OF KEY POINTS
 
@@ -36,7 +36,7 @@ This Privacy Notice for Cypher ("**we**," "**us**," or "**our**"), describes how
 
 **What are your rights?** Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Learn more about [your privacy rights](#9-what-are-your-privacy-rights).
 
-**How do you exercise your rights?** The easiest way to exercise your rights is by visiting devon.minor.00@gmail.com, or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
+**How do you exercise your rights?** The easiest way to exercise your rights is by visiting support@devonminor.com, or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
 
 Want to learn more about what we do with any information we collect? [Review the Privacy Notice in full](#table-of-contents).
 
@@ -272,7 +272,7 @@ If you would at any time like to review or change the information in your accoun
 
 Upon your request to terminate your account, we will deactivate or delete your account and information from our active databases. However, we may retain some information in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our legal terms and/or comply with applicable legal requirements.
 
-If you have questions or comments about your privacy rights, you may email us at devon.minor.00@gmail.com.
+If you have questions or comments about your privacy rights, you may email us at support@devonminor.com.
 
 ## 10. CONTROLS FOR DO-NOT-TRACK FEATURES
 
@@ -381,7 +381,7 @@ Depending upon the state where you live, you may also have the following rights:
 
 ### How to Exercise Your Rights
 
-To exercise these rights, you can contact us by visiting [devonminor.github.io/Cypher](https://devonminor.github.io/Cypher), by emailing us at devon.minor.00@gmail.com, or by referring to the contact details at the bottom of this document.
+To exercise these rights, you can contact us by visiting [cypher.devonminor.com](https://cypher.devonminor.com/), by emailing us at support@devonminor.com, or by referring to the contact details at the bottom of this document.
 
 You can opt out from the selling of your personal information, targeted advertising, or profiling by disabling cookies in Cookie Preference Settings.
 
@@ -395,7 +395,7 @@ If you submit the request through an authorized agent, we may need to collect ad
 
 ### Appeals
 
-**Under certain US state data protection laws, if we decline to take action regarding your request, you may appeal our decision by emailing us at devon.minor.00@gmail.com. We will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal is denied, you may submit a complaint to your state attorney general.**
+**Under certain US state data protection laws, if we decline to take action regarding your request, you may appeal our decision by emailing us at support@devonminor.com. We will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal is denied, you may submit a complaint to your state attorney general.**
 
 ### California "Shine The Light" Law
 
@@ -445,8 +445,8 @@ We may update this Privacy Notice from time to time. The updated version will be
 
 ## 14. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 
-If you have questions or comments about this notice, you may email us at devon.minor.00@gmail.com.
+If you have questions or comments about this notice, you may email us at support@devonminor.com.
 
 ## 15. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
-Based on the applicable laws of your country or state of residence in the US, you may have the right to request access to the personal information we collect from you, details about how we have processed it, correct inaccuracies, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. To request to review, update, or delete your personal information, please visit: devon.minor.00@gmail.com.
+Based on the applicable laws of your country or state of residence in the US, you may have the right to request access to the personal information we collect from you, details about how we have processed it, correct inaccuracies, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. To request to review, update, or delete your personal information, please visit: support@devonminor.com.
